@@ -6,7 +6,6 @@ Your Guide to Portugal - Connect, Explore, and Settle!
 - [Overview](#overview)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Acknowledgments](#acknowledgments)
@@ -30,10 +29,10 @@ In a world where discovering information about a new country can be overwhelming
 - Weather and Climate Information
 
 ## Getting Started
-Before you explore LusoLinks, ensure you have an internet connection and a modern web browser.
+To do
 
 ## Installation
-No installation required. LusoLinks is accessible directly through your web browser.
+To do
 
 ## Usage
 Navigate through the website sections to access valuable information based on your needs:
